@@ -1,0 +1,108 @@
+/* Estilo para la landingpage */
+
+/* Primera parte es el estilo del Header */
+.header {
+
+
+    background-image: url('../../assets/imgs/estante.jpg');
+    height: 15rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.tprincipal {
+    font-size: 3rem;
+    color: aliceblue;
+    text-align: center;
+    border: 1rem;
+    padding: 1rem
+}
+
+.tsecundario {
+
+    font-size: 2rem;
+    color: aliceblue;
+    text-align: center;
+    border: 1rem;
+    padding: 1rem
+}
+
+
+
+
+span {
+
+    background-color: black;
+}
+
+/* Segunda parte es el estilo del Producto */
+
+table {
+
+
+    background-color: rgba(211, 211, 211, 0.219);
+    width: 30%;
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+
+}
+
+.imagen {
+
+    width: 60%;
+    background-color: rgb(6, 29, 21);
+    padding-left: 6.5rem;
+
+
+
+
+}
+
+.precio {
+    background-color: darkgrey;
+    width: 40%;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+footer {
+
+    background-color: blue;
+    width: 100rem;
+    margin: auto;
+
+}
+
+.uno {
+    float: left;
+    width: calc(50% - 20rem);
+    background-color: blue;
+    padding-left: 20rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    font-size: 1rem;
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+.dos {
+    float: right;
+    width: calc(50% - 20rem);
+    background-color: blue;
+    padding-left: 20rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    font-size: 1rem;
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
